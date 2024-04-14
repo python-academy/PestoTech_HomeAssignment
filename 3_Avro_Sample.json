@@ -1,0 +1,2 @@
+{"user_id": "user1", "auction_id": "auction1", "ad_targeting": {"age": 25, "gender": "male", "interests": ["sports", "technology"]}}
+{"user_id": "user2", "auction_id": "auction2", "ad_targeting": {"age": 30, "gender": "female", "interests": ["fashion", "travel"]}}
