@@ -39,7 +39,3 @@ This repository contains the code and scripts for implementing a data engineerin
 ## Contributions
 
 Contributions to improve or extend this data engineering solution are welcome! If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
