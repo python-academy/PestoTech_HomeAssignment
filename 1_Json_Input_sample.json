@@ -1,0 +1,4 @@
+[
+    {"ad_creative_id": 1, "user_id": "user1", "timestamp": "2024-04-14T10:00:00", "website": "example.com"},
+    {"ad_creative_id": 2, "user_id": "user2", "timestamp": "2024-04-14T10:01:00", "website": "example.net"}
+]
